@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ng-githubaction';
+  title = 'Angular CI/CD Lab';
+  description = 'Test Angular CI/CD Lab is working on Github Action';
 }
