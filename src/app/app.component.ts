@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular CI/CD Lab';
-  description = 'Test Angular CI/CD Lab is working on Github Action';
+  description = 'Hi! Test Angular CI/CD is working on Github Action';
 }
